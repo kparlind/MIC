@@ -1,0 +1,1 @@
+Password=admin123;Persist Security Info=True;User ID=sa;Initial Catalog=MIC;Data Source=ADSDB
